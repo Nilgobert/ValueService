@@ -15,7 +15,7 @@
         decimal GetDecimal(string value);
 
         /// <summary>
-        /// Converts the decimal input value to string including postfactor an a specific number of postcomma digits
+        /// Converts the decimal input value to string including postfactor and a specific number of postcomma digits
         /// </summary>
         /// <param name="value">decimal value to be convertet</param>
         /// <param name="precision">number of postcomma digits (rounded)</param>
